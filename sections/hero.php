@@ -1,4 +1,4 @@
- <!-- home page start -->
+<!-- home page start -->
     <div id="Home" class="home_page_wrapeer">
         <div class="home_page_details">
             <div class="hero_info">
@@ -31,4 +31,4 @@
             <img src="<?php bloginfo("template_directory")?>/img/salman_farshe_dark.png" alt="" class="hero_img hero_img_color">
         </div>
     </div>
-    <!-- home page end -->
+<!-- home page end -->

@@ -4,7 +4,6 @@
  * Licensed under the MIT license
  */
 ; (function ($, window, document, undefined) {
-
     // Add our plugin to fn
     $.fn.extend({
 

@@ -387,7 +387,7 @@
 	}
 	.menu_mobile {
 		display: block !important;
-		z-index: 999999999999999999999999999;
+		z-index: 999999;
 		position: fixed;
 		bottom: 0%;
 		width: 100%;

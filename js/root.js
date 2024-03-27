@@ -86,4 +86,4 @@ var age = document.querySelector(".age")
 		var age_dt = new Date(diff_ms);  
 		return Math.abs(age_dt.getUTCFullYear() - 1970);
 	}
-age.innerHTML = calculate_age(new Date(2001, 08, 13)) + " Years";
+age.innerHTML = calculate_age(new Date(2001, 8, 13)) + " Years";
