@@ -18,3 +18,5 @@ Click to view the [Live Demo Here](https://salmanfarshe.com/devfolio-lite/)
 > ```
 > https://salmanfarshe.com/
 > ```
+
+# <div style="text-align: center !important;"><p>Thank you!!</p></div>
