@@ -17,3 +17,4 @@
         wp_enqueue_script('onepageNavjs');
     }
     add_action('wp_enqueue_scripts','adding_scripts');
+    

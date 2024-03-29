@@ -5,7 +5,7 @@
                 <div class="visitor_count">
                     <i class="fa fa-eye"></i><span class="visitor_count_number"></span>
                 </div>
-                <div class="theme">
+                <div class="dev_theme">
                     <div class="Day_Theme_wrap">
                         <span class="Day_Theme">Light</span>
                     </div>
@@ -21,8 +21,8 @@
                 Hi, I’m a web developer specializing in WordPress. I can developed  any kind of website using raw code, CSS Framework and Wordpress. Moreover I have knowledge about popular wordpress page builder and have much experience on Woocommerce
             </p>
             <div class="home_page_button_wrap">
-                <a class="button button-1" href="#About">About Me</a>
-                <a class="button button-2" target="_blanked" href="img/resume/Salman_Farshe-Resume.pdf"
+                <a class="dev_button button-1" href="#About">About Me</a>
+                <a class="dev_button button-2" target="_blanked" href="img/resume/Salman_Farshe-Resume.pdf"
                     download="Salman_Farshe-Resume.pdf">Resume<i class="fas fa-download"></i></a>
             </div>
         </div>
